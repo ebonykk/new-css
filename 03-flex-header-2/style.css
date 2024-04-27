@@ -56,13 +56,10 @@ ul {
 .links {
     display: flex;
     gap: 16px;
-}
+} 
 
 .left,
 .right {
     display: flex;
-}
-
-.right {
     gap: 16px;
 }
