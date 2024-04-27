@@ -18,11 +18,15 @@ body {
 
   .content {
     display: flex;
+    justify-content: center;
     text-align: center;
     gap: 52px;
   }
 
-  
+  .indiv {
+    width: 200px;
+    flex-wrap: wrap;
+  }
  
   
   /* do not edit this footer */
