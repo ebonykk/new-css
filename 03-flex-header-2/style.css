@@ -63,3 +63,6 @@ ul {
     display: flex;
 }
 
+.right {
+    gap: 16px;
+}
