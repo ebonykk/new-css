@@ -29,3 +29,8 @@ input {
     display: flex;
     justify-content: space-between;
 }
+
+ul, a {
+    text-decoration: none;
+    list-style-type: none;
+}
