@@ -28,9 +28,16 @@ input {
 .header {
     display: flex;
     justify-content: space-between;
+  
 }
 
 ul, a {
     text-decoration: none;
     list-style-type: none;
+}
+
+.left-links,
+.right-links {
+    display: flex;
+    gap: 15px;
 }
