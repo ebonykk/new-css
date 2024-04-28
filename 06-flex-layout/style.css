@@ -25,7 +25,8 @@ input {
   width: 400px;
 }
 
-.header {
+.header,
+.footer {
     display: flex;
     justify-content: space-between;
   
@@ -41,3 +42,4 @@ ul, a {
     display: flex;
     gap: 15px;
 }
+
