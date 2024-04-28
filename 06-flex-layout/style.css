@@ -32,13 +32,14 @@ input {
 .header,
 .footer {
     display: flex;
-    justify-content: space-between;
-  
+    justify-content: space-between; 
 }
 
 ul, a {
     text-decoration: none;
     list-style-type: none;
+    color: gray;
+    margin-right: 20px;
 }
 
 .left-links,
