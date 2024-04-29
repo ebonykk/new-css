@@ -48,3 +48,13 @@ body {
     width: 100%;
     display: flex;
   }
+
+  .sidebar, a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+  }
