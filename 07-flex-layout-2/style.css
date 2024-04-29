@@ -43,3 +43,8 @@ body {
     height: 275px;
     margin: 20px;
   }
+
+  .content {
+    width: 100%;
+    display: flex;
+  }
